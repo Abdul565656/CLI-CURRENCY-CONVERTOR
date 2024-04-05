@@ -1,0 +1,20 @@
+{
+  "name": "abdullah00-currency-convertor",
+  "version": "1.0.1",
+  "description": "",
+  "main": "currency.js",
+  "type": "module",
+  "bin": "currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
